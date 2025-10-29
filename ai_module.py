@@ -1,4 +1,4 @@
-# ai_module.py
+# ai_module.py Aalok kumar 2024
 from PIL import Image, ImageEnhance, ImageFilter, ImageOps, ImageDraw
 import os
 
